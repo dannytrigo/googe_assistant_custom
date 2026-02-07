@@ -10,6 +10,8 @@ This custom component adds a single configuration option to the official Google 
 
 - **`exposed_labels`**: Expose entities to Google Assistant by applying specific labels
 
+This feature was not accepted in the official integration so this fork was created.
+
 All other features and configuration options remain the same as the [official integration](https://www.home-assistant.io/integrations/google_assistant).
 
 ## Installation via HACS

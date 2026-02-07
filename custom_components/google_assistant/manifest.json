@@ -7,5 +7,5 @@
   "documentation": "https://github.com/dannytrigo/googe_assistant_custom",
   "integration_type": "hub",
   "iot_class": "cloud_push",
-  "version": "2024.1.0"
+  "version": "1.0.0"
 }
