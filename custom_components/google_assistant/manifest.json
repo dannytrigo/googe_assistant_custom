@@ -4,7 +4,7 @@
   "after_dependencies": ["camera", "matter"],
   "codeowners": ["@home-assistant/cloud"],
   "dependencies": ["http"],
-  "documentation": "https://www.home-assistant.io/integrations/google_assistant",
+  "documentation": "https://github.com/dannytrigo/googe_assistant_custom",
   "integration_type": "hub",
   "iot_class": "cloud_push",
   "version": "2024.1.0"
